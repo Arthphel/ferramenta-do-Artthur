@@ -24,3 +24,12 @@ criaCartao(
     'Quem é o segundo robin ?',
     'o segundo robin foi o jason todd.',
 )
+criaCartao(
+    'Filme',
+    'Qual é o tema principal do filme Homens Não Choram ?',
+    ' a luta pela identidade e pelos direitos da comunidade transgênero.',
+)
+criaCartao(
+    'Esporte',
+    'Qual é o responsavel pelo ataque no vôlei ?',
+    'É o levantador.',
