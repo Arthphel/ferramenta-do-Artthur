@@ -1,7 +1,7 @@
 criaCartao(
     'Bleach',
     'O que é zanpakutos?',
-    'são espadas especiais usadas pelos Shinigamis em Bleach para lutar contra Hollows e outros inimigos. Cada Zanpakuto é única, refletindo a alma e a personalidade de seu usuário, e possui duas formas de liberação: Shikai e bankai.',
+    'são espadas especiais usadas pelos Shinigamis em Bleach para lutar contra Hollows. Cada Zanpakuto é única, refletindo a alma e a personalidade de seu usuário, e possui duas formas de liberação: Shikai e bankai.',
 
 )
 criaCartao(
@@ -12,7 +12,7 @@ criaCartao(
 criaCartao(
     'Escrita',
     'Quem é Rick Riordan ?',
-    'um autor americano, mais conhecido por escrever a série Percy Jackson e os Olimpianos. ',
+    'um escritor americano, mais conhecido por escrever a série Percy Jackson. ',
 )
 criaCartao(
     'Filosofia',
@@ -22,5 +22,5 @@ criaCartao(
 criaCartao(
     'Quadrinhos',
     'Quem é o segundo robin ?',
-    'o segundo robin foi o jason todd que após uma votacao interativa da DC foi morto pelo coringa',
+    'o segundo robin foi o jason todd.',
 )
