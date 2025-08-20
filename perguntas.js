@@ -32,4 +32,5 @@ criaCartao(
 criaCartao(
     'Esporte',
     'Qual é o responsavel pelo ataque no vôlei ?',
-    'É o levantador.',
+    'É o levantador.'
+)
