@@ -43,6 +43,13 @@ body {
     backface-visibility: hidden;
 }  
 
+.cartao__conteudo p {
+    margin-top: 1rem;
+    padding: 2rem;
+    margin-top: 4rem;
+    font-size: 1.4vw;
+}
+
 .cartao__conteudo__pergunta p{
     color: var(--text-color);
     font-weight: 500;
@@ -93,4 +100,20 @@ footer p{
        flex: 1 0 calc(100% - 1rem);
    }
 
+   body {
+        background: url('img/bg-mobile.webp'), no-repeat cover;
+    }
+
+    .cartao {
+        flex: 1 0 calc(100% - 1rem)
+    }
+
+    .cartao__conteudo h3 {
+        font-size: 3vw;
+    }
+
+    .cartao__conteudo p {
+        font-size: 3.8vw;
+    }
 }
+
